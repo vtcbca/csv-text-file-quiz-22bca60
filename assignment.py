@@ -1,5 +1,5 @@
-'''3. Write a program to create "BCA.txt" file which contain information about BCA course. 
-   count and print the total number of lines starting with ‘A’, ‘B’, and ‘C’ in "intro.txt" file.'''
+""" Write a program to create "BCA.txt" file which contain information about BCA course. 
+   count and print the total number of lines starting with ‘A’, ‘B’, and ‘C’ in "intro.txt" file."""
 # Create the BCA.txt file with BCA course information
 bca_info = """
 BCA Course Information:
