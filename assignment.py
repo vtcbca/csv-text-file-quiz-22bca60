@@ -19,8 +19,8 @@ a = 0
 b = 0
 c = 0
 
-with open(file, "r") as d:
-    for line in d:
+with open(file, "r") as f:
+    for line in f:
         if line.strip().startswith('A'):
             a += 1
         elif line.strip().startswith('B'):
